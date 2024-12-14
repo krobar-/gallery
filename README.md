@@ -7,3 +7,4 @@ A collection of graphics, animations, and videos I’ve created. This repository
 
 ![demo reel](https://github.com/user-attachments/assets/aac48a16-2c95-483b-ad17-d3f61de57632)
 
+https://github.com/user-attachments/assets/aac48a16-2c95-483b-ad17-d3f61de57632
